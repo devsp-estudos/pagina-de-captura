@@ -41,6 +41,7 @@ section {
     background-color: #ffffffbb;
     padding: 20px;
     float: right;
+    border-radius: 8px;
 }
 
 h2 {
@@ -58,12 +59,19 @@ input, select {
     border: none;
     margin-bottom: 10px;
     background-color: white;
+    border-radius: 8px;
 }
 
 input[type="submit"] {
     color: white;
     font-weight: bold;
     background-color: #48c5ce;
+    cursor: pointer;
+    transition: background-color 400ms;
+}
+
+input[type="submit"]:hover {
+    background-color: #15878f;
 }
 
 select {
@@ -86,6 +94,7 @@ footer {
 
 .picture {
     width: 160px;
+    border-radius: 8px;
 }
 
 .description {
