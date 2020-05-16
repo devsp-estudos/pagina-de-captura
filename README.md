@@ -14,6 +14,11 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 * CSS
 * **Serviço:** [Mailchimp](https://mailchimp.com/)
 
+## :arrow_forward: Rodar o Projeto
+
+* Primeiro passo, clone o projeto em sua maquina
+* Segundo, abrir o arquivo index.html no navegar
+
 ## :keyboard: Resultado
 
 **GitHub Pages:** [Link](https://devsp011.github.io/pagina-de-captura/)
