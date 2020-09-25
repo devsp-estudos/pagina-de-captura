@@ -27,4 +27,10 @@ O projeto foi criado para treinar o html e css, mas o objetivo principal foi faz
 
 ## :man_technologist: Redes Sociais
 
-* [Linkedin](https://www.linkedin.com/in/vitor-sampaio-4532451a7/)
+* [YouTube](https://www.youtube.com/channel/UCFIHeoKduKPsE2m1oSiK9Mg)
+* [Instagram](https://www.instagram.com/devsp011/)
+* [LinkedIn](https://www.linkedin.com/in/devsp011/)
+
+---
+
+<h5 align='center' >Feito com :purple_heart: por <a href="https://github.com/devsp011" target="_blank">DevSP</a> </h5>
